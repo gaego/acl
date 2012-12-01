@@ -10,7 +10,7 @@ package acl
 import (
 	"appengine"
 	"appengine/datastore"
-	"github.com/scotch/aego/v1/ds"
+	"github.com/gaego/ds"
 	"strings"
 )
 
